@@ -1,4 +1,4 @@
-##Thresholding
+Thresholding
 
 Task: return an image with only the overlay visible and everything else white
 
